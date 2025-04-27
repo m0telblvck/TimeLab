@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_item_1"
+        android:icon="@drawable/ic_check"
+        android:title="Задачи" />
+    <item
+        android:id="@+id/menu_item_2"
+        android:icon="@drawable/ic_calendar"
+        android:title="Календарь" />
+    <item
+        android:id="@+id/menu_item_3"
+        android:icon="@drawable/ic_grid"
+        android:title="Матрица" />
+
+</menu>

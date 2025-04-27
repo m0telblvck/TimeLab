@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_clear_all"
+        android:title="Очистить все задачи" />
+    <item
+        android:id="@+id/menu_sort"
+        android:title="Сортировать по дате" />
+    <item
+        android:id="@+id/menu_hide_completed"
+        android:title="Скрыть выполненные" />
+</menu>

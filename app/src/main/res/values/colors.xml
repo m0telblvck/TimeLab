@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="lightBlack">#101010</color>
+    <color name="colorPrimary">#FF6200EE</color>
+    <color name="colorPrimaryDark">#FF3700B3</color>
+    <color name="colorAccent">#FF03DAC5</color>
+    <color name="dark_gray">#666666</color>
+    <color name="gray">#B0B0B0</color>
+    <color name="green">#4CAF50</color>
+    <color name="red">#F44336</color>
+    <color name="nav_item_selected">#444444</color> <!-- тёмно-серый -->
+    <color name="nav_item_unselected">#AAAAAA</color> <!-- светло-серый -->
+    <!-- Основной фон -->
+    <color name="neutral_gray">#F5F5F5</color>
+
+
+    <!-- Кнопка -->
+    <color name="purple_500">#7C4DFF</color> <!-- Фиолетовая кнопка -->
+
+    <!-- Нижняя навигация -->
+    <color name="darkGray">#1E1E1E</color> <!-- Более светлый серый для BottomNavigationView -->
+
+    <!-- Белый цвет -->
+
+
+</resources>
